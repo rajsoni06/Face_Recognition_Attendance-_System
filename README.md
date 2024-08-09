@@ -1,4 +1,4 @@
-##Face Recognition Attendance System
+Face Recognition Attendance System
 
 Overview
 
@@ -10,10 +10,12 @@ Automated Attendance Recording: Efficiently logs attendance data based on facial
 Feature Extraction: Implements advanced ML algorithms to extract and process facial features.
 User-Friendly Interface: Developed using the MERN stack for an intuitive and responsive user interface.
 Scalable and Flexible: Designed to be easily scalable and adaptable to various environments and use cases.
+
 Tools & Technologies Used
 Python: For backend development and ML model implementation.
 Django: Framework used for developing the web application backend.
 Neural Networks & CNNs: Core technologies behind the facial recognition model.
+
 MERN Stack:
 MongoDB: Database management.
 Express.js: Backend framework.
