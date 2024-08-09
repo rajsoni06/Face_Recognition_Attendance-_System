@@ -1,5 +1,7 @@
-Face Recognition Attendance System
+##Face Recognition Attendance System
+
 Overview
+
 This project involves the development of an advanced Face Recognition Attendance System using Neural Networks and Convolutional Neural Networks (CNNs). The system is designed to accurately identify students, extract facial features, and automate the attendance recording process, demonstrating the practical application of Machine Learning (ML) techniques in real-world scenarios.
 
 Features
